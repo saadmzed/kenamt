@@ -12,7 +12,7 @@
 
 git clone https://github.com/saadmzed/kenamt.git
 
-cd KENAMT
+cd kenamt
 
 chmod +x KENAM.sh
 
@@ -24,7 +24,7 @@ chmod +x install.sh
 
 او نصب بكود واحد
 
-git clone https://github.com/saadmzed/kenamt.git && cd KENAMT && chmod +x KENAM.sh && chmod +x KENAM-Auto.sh && chmod +x install.sh && ./install.sh
+git clone https://github.com/saadmzed/kenamt.git && cd kenamt && chmod +x KENAM.sh && chmod +x KENAM-Auto.sh && chmod +x install.sh && ./install.sh
 
 ● وراح يطلب منك تحط اما y او n تختار دائما y وانتر ●
 
