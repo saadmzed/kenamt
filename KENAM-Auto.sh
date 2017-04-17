@@ -1,3 +1,3 @@
 while true; do
-./TSHAKE.sh
+./KENAM.sh
 done
