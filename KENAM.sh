@@ -30,6 +30,6 @@ echo -e "        Dev | @H_173"
 echo -e "        Dev | @EMADOFFICAL"
 echo -e "        \e[38;5;40m"
 sleep 2
-   ./tg -s ./TSHAKE.lua
+   ./tg -s ./KENAM.lua
 sleep 3
 done
